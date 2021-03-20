@@ -34,13 +34,18 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](./walkthrough1.gif)
+![](./walkthrough2.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I was able to implement all the required stores, however the emulator on my Android Studio does not want to cooperate, and the app crashes every time you try to login.
+I received help from Gian in the Slack server, and he was able to verify that my code was working.
+Gian asked me to rebuild the project and invalidate the cache.
+I was also asked to create a new AVD and reinstall my API.
+None of these suggestions were able to fix the issue.
+The walkthrough I have included shows the app crashing after loging in.
 
 ## Open-source libraries used
 
