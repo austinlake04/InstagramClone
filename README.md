@@ -45,7 +45,7 @@ I received help from Gian in the Slack server, and he was able to verify that my
 Gian asked me to rebuild the project and invalidate the cache.
 I was also asked to create a new AVD and reinstall my API.
 None of these suggestions were able to fix the issue.
-The walkthrough I have included shows the app crashing after loging in.
+The walkthrough I have included shows the app crashing after logging in.
 
 ## Open-source libraries used
 
